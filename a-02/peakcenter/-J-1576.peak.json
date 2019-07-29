@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuNmr4eSX9Au5YUO77rykC7no29r+jXQLunBzy5YwdAu6+AulF7KEC7t/m86fksQLvAcz5YN3lAu8jsPp54ZUC70WY+qvOZQLvZ3z7P8ZRAu+JZPr66FEC76tI+qAxQQLvzTD7+z2BAu/vFPtTF2EC8BD8/Br9mQLwMuD7zng5AvBUyPwEbpUC8Has+xhilQLwmJT8RkCNAvC6ePvaEPEC8Nxc+0DxFQLw/kT6wpt9AvEgKPmQHukC8UIQ+JquFQLxY/TzFRXJAvGF3vSS73EC8afC9r6X8QLxyajuw2jlAvHrjvdMXqkC8g129R3Wz",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuNmgAAAABAu5YUOSAVS0C7no05oBVLQLunBzsMEqNAu6+AO2Yen0C7t/k71xyjQLvAczwvF1JAu8jsPJ2VAkC70WY9Vny2QLvZ3z3ZnVFAu+JZPowTP0C76tI+1HWrQLvzTD733uRAu/vFPv6D4UC8BD8++YMiQLwMuD8BVD9AvBUyPwA8FkC8Has+/m/eQLwmJT76IzpAvC6ePvxnkEC8Nxc+7Ik2QLw/kT7q0PVAvEgKPuDPe0C8UIQ+wvMeQLxY/T6JkuRAvGF3PfAgZEC8afA9C3KgQLxyajvwH/hAvHrjOtwdSUC8g105IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.876095516615259,
+        "center_signal": 161.69424399375615,
+        "high_dac": 5.883820967517063,
+        "high_resolving_power": 1287.9152029785675,
+        "high_signal": 119.2459969884352,
+        "low_dac": 5.868370065713456,
+        "low_resolving_power": 1251.2122490559777,
+        "low_signal": 119.06142424437054,
+        "points": "QLuNmj4MMndAu5YUPqC5UUC7no0/Pp+GQLunB0AnFaJAu6+AQRDGlkC7t/lB6FGXQLvAc0KLnMNAu8jsQucAnEC70WZDEhvbQLvZ30MeXEJAu+JZQyE4MEC76tJDIZqMQLvzTEMhnqtAu/vFQyGxpUC8BD9DIZxtQLwMuEMheyJAvBUyQyFp50C8HatDIXGYQLwmJUMhVxFAvC6eQyB2yUC8NxdDHXxdQLw/kUMUGH9AvEgKQvCQK0C8UIRCkwPnQLxY/UHz9hJAvGF3QQe7nEC8afA/znt+QLxyaj471/tAvHrjPZ/M0UC8g129n+pw",
+        "resolution": 268.50976765485603
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuNmr14VNJAu5YUPNoMyEC7no28s8RLQLunBztD1c5Au6+APE1hc0C7t/m9JEIsQLvAc71zECFAu8jsvUoDbEC70Wa9lkDfQLvZ372oOyVAu+JZvICeX0C76tI7K6FoQLvzTLz/eXNAu/vFvXnX1UC8BD+9hOpZQLwMuLx1gQNAvBUyvFAadEC8Hau8oojRQLwmJb3aVR9AvC6evG5amUC8Nxc9j9tDQLw/kTzYZjFAvEgKO30L8EC8UIS9aoq6QLxY/b30rzRAvGF3vSZdw0C8afC966gLQLxyaj0iCSBAvHrjvhTcSEC8g129nUjL",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
