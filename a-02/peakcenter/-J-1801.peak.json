@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuV9b0QTi5Au55vvQ6kf0C7pui9hgwuQLuvYr3kolNAu7fbvZVdLEC7wFU9GLzbQLvIzj47hwtAu9FHPqlecUC72cE/AfHTQLviOj8YYvFAu+q0PxkibkC78y0/OCCkQLv7pz86tY9AvAQgPyPE9EC8DJo/TFXOQLwVEz8rTm5AvB2NPzUBrkC8JgY/N/arQLwugD8rBrtAvDb5Pz/gXUC8P3M/UTexQLxH7D8UOH5AvFBlPtapGUC8WN8+oRBYQLxhWD2upVBAvGnSvefu8EC8cku8uSEIQLx6xb4+/qVAvIM+vZFBhkC8i7i99Pa4",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuV9QAAAABAu55vOSAVS0C7pug6IBVMQLuvYjnwH/FAu7fbOtwdSUC7wFU7Uhv1QLvIzjwiladAu9FHPI6TAUC72cE9CZJgQLviOj2qZuVAu+q0PlsF4kC78y0+rYgGQLv7pz7ONMJAvAQgPuQ//UC8DJo+45/lQLwVEz7fZ0ZAvB2NPtWh10C8JgY+3PrrQLwugD7aKoFAvDb5Ptl2Z0C8P3M+3rMsQLxH7D7XbhtAvFBlPtNxhUC8WN8+uQWuQLxhWD6J4u9AvGnSPglCjUC8cks9NfhWQLx6xTwYlFFAvIM+OyoWokC8i7g5IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.87741611181098,
+        "center_signal": 145.48509483869591,
+        "high_dac": 5.885081442472303,
+        "high_resolving_power": 1288.2042279797363,
+        "high_signal": 108.40201737979217,
+        "low_dac": 5.869750781149658,
+        "low_resolving_power": 1220.1940165808562,
+        "low_signal": 107.34388235712201,
+        "points": "QLuV9T3NmdRAu55vPmBCI0C7pug+/HsxQLuvYj/tWz1Au7fbQM3fYEC7wFVBqtWkQLvIzkJW1l9Au9FHQrbCXEC72cFC+PZSQLviOkMMfgJAu+q0QxCVl0C78y1DEUQ3QLv7p0MRXM5AvAQgQxFuwEC8DJpDEUs3QLwVE0MRXl1AvB2NQxFRgEC8JgZDEXmvQLwugEMRTThAvDb5QxCMVEC8P3NDDvkRQLxH7EMI0DhAvFBlQuoJ6kC8WN9Cm+XtQLxhWEISpFJAvGnSQTq6yUC8cktAHz0rQLx6xT7YaWBAvIM+PWRo30C8i7i8tku/",
+        "resolution": 267.0997850449709
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuV9b0DoeNAu55vvKs+CEC7pui9T2tyQLuvYr1KScxAu7fbvJjRdEC7wFW9h2l5QLvIzr2Ogx9Au9FHvL3w5UC72cG9fZl+QLviOj08izFAu+q0vb1AoEC78y297kqhQLv7p72n3VlAvAQgvZ/ZbUC8DJo85vsXQLwVEz1RIwxAvB2NO0Gif0C8Jga9ni1xQLwugL2qkR5AvDb5ve4hkkC8P3O9nX2PQLxH7L3+uFdAvFBlveoHjUC8WN88qdAuQLxhWL3D9h5AvGnSvQ8K7EC8cku9lzFBQLx6xTzZUPdAvIM+vXvEZEC8i7i9g5Bl",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
