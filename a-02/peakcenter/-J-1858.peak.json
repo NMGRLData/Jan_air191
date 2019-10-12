@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUL4XWjhAu6bKvjKQ3kC7r0O986J4QLu3vb2hSKZAu8A2vd6U0UC7yLC+B8iDQLvRKT4jyulAu9mjPreRHkC74hw/Ani9QLvqlT8QkKRAu/MPPxFekEC7+4g/DurnQLwEAj8rfz9AvAx7PyZro0C8FPU/B6KWQLwdbj8vimZAvCXoPyefvEC8LmE/OQ05QLw22z8asLFAvD9UPzFRF0C8R84/EboWQLxQRz8XEoNAvFjBPtaf9EC8YTo+MTSKQLxps700pfVAvHItvjVeGEC8eqa+AjaBQLyDIL4LvPVAvIuZvj9Tu0C8lBO94Cvy",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUDmgFUtAu6bKOaAVS0C7r0M5IBVLQLu3vQAAAABAu8A2Okgan0C7yLA58B/xQLvRKQAAAABAu9mjOiAVTEC74hw5IBVLQLvqlTnwH/FAu/MPOfAf8UC7+4g5IBVLQLwEAjnwH/FAvAx7OSAVS0C8FPU5oBVLQLwdbjkgFUtAvCXoAAAAAEC8LmE5oBVLQLw22zmgFUtAvD9UOaAVS0C8R845IBVLQLxQRwAAAABAvFjBOiAVTEC8YTo5oBVLQLxpsznwH/FAvHItOfAf8UC8eqY5IBVLQLyDIDmgFUtAvIuZOaAVS0C8lBM5IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878105444481649,
+        "center_signal": 141.8787879585285,
+        "high_dac": 5.885981195984655,
+        "high_resolving_power": 1359.9373225908228,
+        "high_signal": 106.11412184858607,
+        "low_dac": 5.8702296929786435,
+        "low_resolving_power": 1301.6664963540172,
+        "low_signal": 106.34060698048145,
+        "points": "QLueUD4CbA5Au6bKPli1Q0C7r0M/EZg6QLu3vUAgfglAu8A2QQ9akUC7yLBB569VQLvRKUKJb91Au9mjQtpuVUC74hxDBH+0QLvqlUMMIndAu/MPQw1eQEC7+4hDDdxUQLwEAkMNupdAvAx7Qw3fT0C8FPVDDdN1QLwdbkMN2r5AvCXoQw2eh0C8LmFDDal+QLw220MNbAtAvD9UQwzXIEC8R85DCtYNQLxQR0MDnsJAvFjBQt1r0kC8YTpCkwQWQLxps0ISGRVAvHItQKiv3EC8eqY/TW2LQLyDID0euVJAvIuZPYGKXkC8lBM9waFw",
+        "resolution": 268.5974923806296
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueUL2NY9JAu6bKPMVqfUC7r0O9FpqAQLu3vb1gATpAu8A2vQCnWkC7yLC9o5ULQLvRKb0vnztAu9mjvaaPL0C74hw8N+yoQLvqlb1RwZ5Au/MPPIMGN0C7+4g6ZNaqQLwEArwRCJlAvAx7vRBq2UC8FPW9F7/EQLwdbj22IUZAvCXovZdItUC8LmG7q0GxQLw227zwz2FAvD9UvQs9QUC8R868uoyyQLxQR71/kcdAvFjBvUgLEkC8YTq9+Fm3QLxps72khWpAvHItvRYNu0C8eqa98EMaQLyDIL2Kx2ZAvIuZvSryxkC8lBO9fchn",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
