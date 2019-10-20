@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuf072AwHtAu6hNvhrkHUC7sMa+GIcsQLu5QL4bEbZAu8G5vgA9wkC7yjO+RXnBQLvSrL1521tAu9smPhxcnUC74589vIXcQLvsGT5n+vBAu/SSPhqB0kC7/Qw+yI+YQLwFhT5ioFRAvA3/PnU/T0C8Fng+msCwQLwe8T6k9FZAvCdrPqP/JEC8L+Q+sL25QLw4Xj5lJgdAvEDXPrkjV0C8SVE+g6f/QLxRyj5Ay81AvFpEPgGOS0C8Yr29EbsNQLxrN74IhQVAvHOwvhbFQkC8fCq90sKWQLyEo74urw1AvI0dvYlfRkC8lZa+NNtq",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuf0zkgFUtAu6hNOSAVS0C7sMY5oBVLQLu5QDogFUxAu8G5OrQX9kC7yjM7lhP5QLvSrDv1IKNAu9smPHUgqkC74589EvOiQLvsGT3L23FAu/SSPl+2ikC7/Qw+qt+kQLwFhT7P7QJAvA3/Pt6LJkC8Fng+3ILaQLwe8T7aKoFAvCdrPtXJ3UC8L+Q+19IpQLw4Xj7bVq1AvEDXPtj+VUC8SVE+1kHvQLxRyj7QoRxAvFpEPsX/kEC8Yr0+sFhtQLxrNz6BSbhAvHOwPecPJ0C8fCo9ERNhQLyEozvIGqNAvI0dOkgan0C8lZY5IBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878350180360721,
+        "center_signal": 137.46962189291654,
+        "high_dac": 5.886165811623246,
+        "high_resolving_power": 1255.4045897435783,
+        "high_signal": 102.28551749972274,
+        "low_dac": 5.870534549098196,
+        "low_resolving_power": 1284.6126052632103,
+        "low_signal": 101.34935932427376,
+        "points": "QLuf0z34PEJAu6hNPgvIG0C7sMY/InzLQLu5QEADTd5Au8G5QPIDdEC7yjNBxIqXQLvSrEJxIyJAu9smQsh/nUC7459C+3U7QLvsGUMHNuFAu/SSQwkpCkC7/QxDCXg8QLwFhUMJUZ1AvA3/QwlM7EC8FnhDCUaJQLwe8UMJMv9AvCdrQwlUZ0C8L+RDCRKVQLw4XkMI775AvEDXQwh1/UC8SVFDBpbSQLxRykL+vcdAvFpEQtW8m0C8Yr1CiQvHQLxrN0H1IvNAvHOwQRm6fEC8fCo/9ZfmQLyEoz59QVRAvI0dOWNkikC8lZY9GCHJ",
+        "resolution": 265.6971684782672
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLuf070QyLJAu6hNvCgikEC7sMa9EvALQLu5QL1MwypAu8G5vgLJCkC7yjO8ItFrQLvSrL11K5tAu9smvXGkkEC74585JEswQLvsGT1b9hxAu/SSvSdrj0C7/Qw7QxoJQLwFhbz0qNRAvA3/u60XE0C8Fni9gLNwQLwe8bwrQHlAvCdrut2APkC8L+S9YvuSQLw4XjyHs2tAvEDXvY6O2UC8SVG95N+qQLxRyr2CWZ9AvFpEPRTrfEC8Yr29PXWZQLxrN710/LJAvHOwvYZnekC8fCq+LnGnQLyEo71obztAvI0dvc8ihUC8lZa+Dphj",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
