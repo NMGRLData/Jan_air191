@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueG73/3WZAu6aVviRXuUC7rw6+PiblQLu3h74Pq0lAu8ABvcQc+EC7yHq95xpEQLvQ9L35PF9Au9ltvdIYbkC74ec+HRZFQLvqYD6LWxlAu/LaPmW+UUC7+1M+O/SmQLwDzT5KVcBAvAxGPgLgCkC8FMA+iR09QLwdOT6xS2VAvCWzPkIm5UC8Liw+V6tjQLw2pT6Ws8pAvD8fPl2IzUC8R5g9/8igQLxQEj6P/PNAvFiLPl/dvEC8YQW9DFCJQLxpfrz3RtZAvHH4vkHwP0C8enG95+jcQLyC676GnKZAvItkvlpaBEC8k96+TecK",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueGwAAAABAu6aVOSAVS0C7rw45oBVLQLu3hznwH/FAu8ABOsgan0C7yHo7oBVOQLvQ9DwdlPxAu9ltPImSVkC74ec9F1Q4QLvqYD25GONAu/LaPlAUW0C7+1M+rFvbQLwDzT7OIL9AvAxGPtt+s0C8FMA+3z9AQLwdOT7ZimpAvCWzPtQloEC8Liw+2/bFQLw2pT7dmwNAvD8fPtviwkC8R5g+05mLQLxQEj7OrNNAvFiLPssASkC8YQU+tjVGQLxpfj55qi9AvHH4PfLwx0C8enE8+2GQQLyC6zvhHfhAvItkOowSokC8k945oBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.878170240480962,
+        "center_signal": 135.8137608744769,
+        "high_dac": 5.886076052104208,
+        "high_resolving_power": 1341.3091095889315,
+        "high_signal": 100.58371168665771,
+        "low_dac": 5.870264428857715,
+        "low_resolving_power": 1301.6875333331639,
+        "low_signal": 101.18737705088941,
+        "points": "QLueGz5BcyVAu6aVPkd71UC7rw4/GRs2QLu3h0AL74lAu8ABQPXHQEC7yHpBxsvFQLvQ9EJ1TDRAu9ltQswnt0C74edC+xP+QLvqYEMGBCdAu/LaQweWZEC7+1NDB7LhQLwDzUMHsXNAvAxGQwfQQkC8FMBDB634QLwdOUMHlFpAvCWzQweyhEC8LixDB207QLw2pUMHRKJAvD8fQwbt5UC8R5hDBNUUQLxQEkL9FUVAvFiLQtjL2kC8YQVClCBsQLxpfkIYt2VAvHH4QMFeFEC8enE/kRnvQLyC6z4mJGNAvItkvMYGNkC8k969wEGA",
+        "resolution": 269.34039944903844
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLueGzw2FzFAu6aVvUJcpUC7rw696L8NQLu3h74RY9lAu8ABPXzw8kC7yHq8tmzHQLvQ9L2K/CtAu9ltvVhaj0C74ec8hGZVQLvqYL2W/H1Au/LaPSetLkC7+1O94rg8QLwDzbxY51BAvAxGO4OoX0C8FMA9tjLhQLwdOb29C95AvCWzPKF350C8Liy9C5saQLw2pbwtc7RAvD8fvX28rUC8R5i9ie50QLxQEjyVXSxAvFiLvY7mzEC8YQW9YadyQLxpfjyVLjlAvHH4PSKWAkC8enG9zOQcQLyC673LODpAvItkvHe0NkC8k969lMmi",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
