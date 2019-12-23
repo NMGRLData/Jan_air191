@@ -1,0 +1,54 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufVr6Uk3pAu6fPvojY/kC7sEm+VBLoQLu4wr3ZqvJAu8E7vfcrx0C7ybW+AUlWQLvSLjy7qytAu9qoPjZj2UC74yE+b7bUQLvrmz6oslRAu/QUPqGcc0C7/I4+vR0lQLwFBz6WclJAvA2BPqDx40C8Ffo+u7ulQLwedD7Eg0VAvCbtPrZXRUC8L2c+3Tc/QLw34D7KWNNAvEBZPqkQw0C8SNM+yYBmQLxRTD6j7N1AvFnGPokxB0C8Yj+8NSK8QLxqub3179VAvHMyvbifbUC8e6y+LNsBQLyEJb5X1fhAvIyfven/k0C8lRi+e+fQ",
+        "resolution": null
+    },
+    "CDD": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufVgAAAABAu6fPOSAVS0C7sEk58B/xQLu4wjsgFU1Au8E7O6AVTkC7ybU8LJb9QLvSLjzJWt1Au9qoPSjWkkC74yE9ulkPQLvrmz5sEEVAu/QUPwdPJEC7/I4/SIswQLwFBz9ip1tAvA2BP2faMkC8Ffo/bi85QLwedD9vFV9AvCbtP26xT0C8L2c/bETqQLw34D9thR5AvEBZP2Yr7UC8SNM/aHpMQLxRTD9elrRAvFnGP1TvKEC8Yj8/PaN4QLxquT7611VAvHMyPkwDyUC8e6w9eYFuQLyEJTwbFKdAvIyfOxYT+EC8lRg5oBVL",
+        "resolution": null
+    },
+    "H1": {
+        "center_dac": 5.8781699398797596,
+        "center_signal": 292.93117104231163,
+        "high_dac": 5.8861058116232465,
+        "high_resolving_power": 1223.9945000001571,
+        "high_signal": 215.9716453349116,
+        "low_dac": 5.8702340681362735,
+        "low_resolving_power": 1355.924444444368,
+        "low_signal": 215.24378408258968,
+        "points": "QLufVj39orVAu6fPPsKuiEC7sEk/sULsQLu4wkCZfIxAu8E7QYzcUkC7ybVCY45bQLvSLkMCNjRAu9qoQ2kOTkC74yFDimsCQLvrm0ORIkFAu/QUQ5JXXUC7/I5Dkm5LQLwFB0OSc+BAvA2BQ5JSu0C8FfpDkmEhQLwedEOSQTdAvCbtQ5IXMEC8L2dDkfZjQLw34EOR7KVAvEBZQ5FFF0C8SNNDjwKaQLxRTEOG7W5AvFnGQ2GfakC8Yj9DEcoKQLxquUKGYfxAvHMyQat0QEC8e6xAiSmNQLyEJT4FD69AvIyfPToeREC8lRg+Tbam",
+        "resolution": 264.9730623306283
+    },
+    "L2": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QLufVryo2+9Au6fPvZuiq0C7sEm9gwOrQLu4wj0fjyhAu8E7O7HeG0C7ybW91tOHQLvSLryrVX9Au9qovfDtNkC74yG8D+76QLvrmzzctZ9Au/QUvZ9G20C7/I49gi+qQLwFBz1f5+1AvA2BvPciVUC8Ffo6xJEtQLwedL4Yj1JAvCbtvJGTpUC8L2e8xS6ZQLw34L0OCNdAvEBZPGFevUC8SNO9D8adQLxRTL4B+8FAvFnGvRj8fkC8Yj+9wFf4QLxqubzHYb5AvHMyvhKJEEC8e6y8vEqHQLyEJb21g0dAvIyfvUX7QUC8lRi+FMTT",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H1",
+    "reference_isotope": "Ar40"
+}
